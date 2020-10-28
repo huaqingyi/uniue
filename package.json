@@ -1,5 +1,5 @@
 {
-  "name": "uniue",
+  "name": "diary",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -55,6 +55,7 @@
     "flyio": "^0.6.2",
     "reflect-metadata": "^0.1.13",
     "regenerator-runtime": "^0.12.1",
+    "uview-ui": "^1.7.7",
     "vue": "^2.6.11",
     "vue-class-component": "^6.3.2",
     "vue-property-decorator": "^8.0.0",
